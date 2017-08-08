@@ -1,2 +1,2 @@
 # docker-node-chrome
-Docker image with centos 7, node 6, and google chrome
+Docker image that installs Chrome 59 on the base node 6.11.2 image
